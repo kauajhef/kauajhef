@@ -2,5 +2,5 @@
 
 - 🔭 Aprendiz Full Stack
 - 🌱 Cursando Front-end na DankiCode
-- 💻 Domino Html e Css 
+- 💻  Conhecimento aprimorado em HTML e CSS
 - |JS| Estudando JavaScript atualmente
