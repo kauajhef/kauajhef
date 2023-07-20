@@ -8,7 +8,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-jhefferson-2a068723b/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kauajhefferson12/featured)
 
-![Kauã GitHub stats](https://github-readme-stats.vercel.app/api?username=kauajhef&show_icons=true&theme=dracula) 
+![Kauã GitHub stats](https://github-readme-stats.vercel.app/api?username=kauajhef&show_icons=true&theme=onedark) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauajhef&layout=compact)
 
 ### 💻 Tech Stack:
 
