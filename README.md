@@ -31,7 +31,8 @@ Prática de boas práticas e arquitetura de código
   <img align='center' alt='css' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/>
 
 loading...
-</div> <br/>
+</div> 
+
 ### Contato
 Email: jheffersonkaua16@gmail.com <br>
 LinkedIn: https://www.linkedin.com/in/kau%C3%A3-jhefferson-2a068723b/ 
