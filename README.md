@@ -1,18 +1,21 @@
-###  Olá! eu sou o Kauã Jhefferson 👋
+###  Kauã Jhefferson
 
-### ✡️ About Me:
+Desenvolvedor focado em construção de sistemas e evolução contínua na área de Engenharia de Software.
 
- <b>dev em formação full-stack⏳<b>
+### Sobre
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kauajh_/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-jhefferson-2a068723b/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kauajhefferson12/featured)
+Atuo no desenvolvimento de aplicações com foco em backend, aplicando conceitos de programação orientada a objetos, organização de código e boas práticas de desenvolvimento.
 
-![Kauã GitHub stats](https://github-readme-stats.vercel.app/api?username=kauajhef&show_icons=true&theme=transparent) 
+Busco evoluir continuamente através da construção de projetos reais, com o objetivo de desenvolver soluções cada vez mais robustas e alinhadas ao mercado.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauajhef&layout=compact)
+### Atividades
 
-### 💻 Tech Stack:
+Desenvolvimento de sistemas e aplicações
+Estudo contínuo em Engenharia de Software
+Construção e evolução de projetos próprios
+Prática de boas práticas e arquitetura de código
+
+### 💻 Tecnologias:
 
 <div style = 'display= inline_block'><br/>
 
@@ -29,6 +32,10 @@
 
 loading...
 </div> <br/>
+
+### Contato
+Email: jheffersonkaua16@gmail.com
+LinkedIn: https://www.linkedin.com/in/kau%C3%A3-jhefferson-2a068723b/ 
 
 <b>Apaixonado por tecnologia.<b>
 <br>
