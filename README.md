@@ -1,4 +1,4 @@
-###  Kauã Jhefferson
+### Olá, meu nome é Kauã Jhefferson
 
 Desenvolvedor focado em construção de sistemas e evolução contínua na área de Engenharia de Software.
 
