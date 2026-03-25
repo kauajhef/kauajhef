@@ -32,9 +32,8 @@ Prática de boas práticas e arquitetura de código
 
 loading...
 </div> <br/>
-
 ### Contato
-Email: jheffersonkaua16@gmail.com
+Email: jheffersonkaua16@gmail.com <br>
 LinkedIn: https://www.linkedin.com/in/kau%C3%A3-jhefferson-2a068723b/ 
 
 <b>Apaixonado por tecnologia.<b>
